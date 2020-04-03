@@ -1,3 +1,3 @@
 # snake
 
-Snake game. Just for fun.
+Snake game on C#. Just for fun.
